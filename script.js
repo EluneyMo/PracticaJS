@@ -59,3 +59,9 @@ function suma(num1, num2){
      console.log(mensaje);
  }
  //#endregion
+ //#region 
+Arreglo_num=[10,20,30,40,50];
+for (i=0;i<=5;i++){
+    console.log(Arreglo_num);
+}
+//#endregion
